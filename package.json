@@ -1,0 +1,27 @@
+{
+  "name": "complex-gamepad",
+  "version": "0.5.0",
+  "description": "complex module for the gamepad api",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faebeee/complex-gamepad.git"
+  },
+  "keywords": [
+    "complex",
+    "game",
+    "html5",
+    "gamepad",
+    "webgl",
+    "engine"
+  ],
+  "author": "faebeee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faebeee/complex-gamepad/issues"
+  },
+  "homepage": "https://github.com/faebeee/complex-gamepad#readme"
+}
